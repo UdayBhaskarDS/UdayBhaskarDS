@@ -1,6 +1,6 @@
 - 👋 Hi, I’m UdayBhaskar
 - 👀 I’m interested in Machine Learning ,Deep Learning,AI
-- 🌱 I’m currently Working as Data science Trainer and Freekancer
+- 🌱 I’m currently Working as Data science Trainer and Freelancer
 - 💞️ I’m looking to collaborate on interestig projects,tasks and ideas
 - 📫 email me at udaydataanalytics@gmail.com
 

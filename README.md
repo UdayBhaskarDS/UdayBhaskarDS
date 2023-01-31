@@ -1,9 +1,9 @@
 - 👋 Hi, I’m UdayBhaskar
-- 👀 I’m interested in Machine Learning ,Deep Learning,AI
-- 🌱 I’m currently Working as Data science Trainer and Freelancer
+- 👀 Working on Machine Learning ,Deep Learning,AI Projects
+- 🌱 I’m currently Working as Sr. AI Developer
 - 💞️ I’m looking to collaborate on interestig projects,tasks and ideas
 - 📫 email me at udaydataanalytics@gmail.com
-- Reach me at +91 9703434275
+
 
 <!---
 UdayBhaskarDS/UdayBhaskarDS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

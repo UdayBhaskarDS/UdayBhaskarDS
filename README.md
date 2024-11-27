@@ -1,5 +1,5 @@
 - 👋 Hi, I’m UdayBhaskar
-- 👀 Working on Machine Learning ,Deep Learning,AI Projects
+- 👀 Working on Gen AI, LLM based Applications, Machine Learning, NLP, Deep Learning, AI Projects
 - 🌱 I’m currently Working as Sr. AI Developer
 - 💞️ I’m looking to collaborate on interestig projects,tasks and ideas
 - 📫 email me at udaydataanalytics@gmail.com
